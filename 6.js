@@ -1,15 +1,15 @@
 const scalePrice = 10;
-const scaleAmount = 2;
+const scaleQuantity = 2;
 
 const penPrice = 15;
-const penAmount = 3;
+const penQuantity = 3;
 
 const bookPrice = 20;
-const bookAmount = 1;
+const bookQuantity = 1;
 
-const totalScale = scalePrice * scaleAmount;
-const totalPen = penPrice * penAmount;
-const totalBook = bookPrice * bookAmount;
+const totalScale = scalePrice * scaleQuantity;
+const totalPen = penPrice * penQuantity;
+const totalBook = bookPrice * bookQuantity;
 
 const totalAmount = totalScale + totalPen + totalBook;
 
