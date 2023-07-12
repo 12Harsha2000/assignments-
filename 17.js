@@ -1,5 +1,7 @@
-const inputArray = ['edstem', 'react', 'html', 'foodie', 'coder'];
 
-const filteredArray = inputArray.filter((str) => str.length % 2 === 0);
-
-console.log(filteredArray);
+const char=['edstem','react','html','foodie','coder'];
+for(let i=0;i<char.length;i++)
+    {
+    if(char[i].length%2==0)   
+        console.log(char[i]);
+    }

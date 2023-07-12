@@ -1,7 +1,7 @@
-const scores = [100, 20, 31, 150, 39, 72];
+let scores = [100, 20, 31, 150, 39, 72];
 
-const highestScore = Math.max(...scores);
-const lowestScore = Math.min(...scores);
+let highestScore = Math.max(...scores);
+let lowestScore = Math.min(...scores);
 
 console.log(highestScore);
 console.log(lowestScore);
