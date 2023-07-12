@@ -1,24 +1,20 @@
-const sizeCode = "M";
-
-let sizeName;
-switch (sizeCode) {
-  case "XS":
-    sizeName = "Extra Small";
-  case "S":
-    sizeName = "Small";
-    break;
-  case "M":
-    sizeName = "Medium";
-    break;
-  case "L":
-    sizeName = "Large";
-    break;
-  case "XL":
-    sizeName = "Extra Large";
-    break;
-  default:
-    sizeName = "None";
-    break;
+let size = "S"
+if (size =='S')
+{
+    console.log("Small");
 }
-
-console.log(sizeName);
+else if (size =='M')
+{
+    console.log("Medium");
+}
+else if ( size =='L')
+{
+    console.log("Large");
+}
+else if ( size =='XL')
+{
+    console.log("Extra Large");
+}
+else{
+    console.log("None")
+}

@@ -1,9 +1,8 @@
-const startingNumber = 13;
-const decrement = 4;
+let startingNumber = 13;
 
-let number = startingNumber;
+while (startingNumber > 0) 
+{
+  console.log(startingNumber);
+  startingNumber = startingNumber - 4;
 
-while (number >= 0) {
-  console.log(number);
-  number -= decrement;
 }

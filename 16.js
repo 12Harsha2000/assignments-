@@ -1,4 +1,4 @@
-const inputString = "madam";
+const inputString = "madam"; 
 
 const reversedString = inputString.split("").reverse().join("");
 

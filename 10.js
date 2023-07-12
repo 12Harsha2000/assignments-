@@ -1,4 +1,11 @@
-const pinCode = "686510";
+let pincode ="690505";
 
-const result = pinCode.length === 6 ? "VALID" : "INVALID";
-console.log(result);
+if(pincode.length==6)
+
+{
+   console.log("VALID")
+}
+
+else{
+    console.log("INVALID")
+}
