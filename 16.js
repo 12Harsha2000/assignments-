@@ -9,4 +9,4 @@ for (let i=0;i<len/2;i++)
 if(flag==1)
     console.log("It is not a palindrome");
 else
-    console.log("It is palindrome");
+    console.log("It is palindrome"); 

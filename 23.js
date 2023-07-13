@@ -17,4 +17,4 @@ const matrix = [
   console.log("First Diagonal -> " + firstDiagonalSum);
   console.log("Second Diagonal -> " + secondDiagonalSum);
   console.log("Difference => " + difference);
-  
+   

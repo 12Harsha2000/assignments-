@@ -5,4 +5,4 @@ while (startingNumber > 0)
   console.log(startingNumber);
   startingNumber = startingNumber - 4;
 
-}
+} 

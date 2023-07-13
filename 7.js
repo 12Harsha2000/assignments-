@@ -9,4 +9,4 @@ else if (char=='A'||char=='E'||char=='I'||char=='O'||char=='U' )
 }
 else{
     console.log("C")
-}
+}   

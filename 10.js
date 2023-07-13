@@ -9,3 +9,4 @@ if(pincode.length==6)
 else{
     console.log("INVALID")
 }
+ 

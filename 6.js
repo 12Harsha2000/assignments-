@@ -17,3 +17,4 @@ console.log("Total amount for scale: " + totalScale);
 console.log("Total amount for pen: " + totalPen);
 console.log("Total amount for book: " + totalBook);
 console.log("Total amount for all items: " + totalAmount);
+      

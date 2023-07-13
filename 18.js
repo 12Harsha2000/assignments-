@@ -11,5 +11,5 @@ while(i<string.length)
         b='';
         } 
      i++;  
-    }
+    } 
 console.log(a);

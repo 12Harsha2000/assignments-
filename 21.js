@@ -5,3 +5,4 @@ let lowestScore = Math.min(...scores);
 
 console.log(highestScore);
 console.log(lowestScore);
+ 
